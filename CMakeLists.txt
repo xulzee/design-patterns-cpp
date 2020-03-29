@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_subdirectory(template-method)
 add_subdirectory(strategy)
+add_subdirectory(observer)
